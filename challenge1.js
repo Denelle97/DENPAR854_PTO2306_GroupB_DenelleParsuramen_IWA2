@@ -8,4 +8,4 @@ const user = 'John'
 const surName = 'Smith'
 
 
-console.log(user, surName);
+console.log('user', 'surName');
